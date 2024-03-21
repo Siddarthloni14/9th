@@ -1,4 +1,4 @@
-# 9thDevelop a Program in C for the following operationson Singly Circular Linked List
+ldksjflkjdlkjflkdjflkdjfljds# 9thDevelop a Program in C for the following operationson Singly Circular Linked List
 (SCLL) with header nodes 
 a. Represent and Evaluate a Polynomial
  P(x,y,z) = 6x2y2z-4yz5+3x3yz+2xy5z-2xyz3 
